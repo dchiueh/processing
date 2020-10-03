@@ -77,7 +77,7 @@ function pointForIndex(pct) {
 
 function draw() {
 	textSize(fontSize);
-	image(camera, centerX-300, centerY-300, 600, 600);
+	image(camera, centerX-300, centerY-300, 800, 800);
 	
 	frameRate(15);
 	fill(200,59,29);
